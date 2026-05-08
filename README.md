@@ -1,4 +1,4 @@
-# Brainphewas
+# Brain Imaging–Disease Risk Atlas
 <img width="3000" height="1237" alt="3 - Untitled slide" src="https://github.com/user-attachments/assets/f398ad72-76ef-480a-b59b-8fdfc484f576" />
 
 
